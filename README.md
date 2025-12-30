@@ -29,5 +29,7 @@ explainability, and auditability.
 5. Human Approval
 6. Audit Logging
 
+Initial NRCOMM foundation
+
 ## Status
 🚧 Active Development – Phase 1 (GST Compliance & Notice Handling)
