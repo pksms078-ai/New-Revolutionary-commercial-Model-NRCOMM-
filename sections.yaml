@@ -1,1 +1,9 @@
+section_16:
+  title: Input Tax Credit Eligibility
+  conditions:
+    - possession_of_invoice
+    - goods_received
+    - tax_paid_to_government
+    - return_filed
+  risk_if_violated: HIGH
 
