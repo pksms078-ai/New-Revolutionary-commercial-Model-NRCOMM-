@@ -7,3 +7,11 @@ section_16:
     - return_filed
   risk_if_violated: HIGH
 
+section_73:
+  title: Demand for tax not paid or short paid
+  intent: Non-fraud cases
+  risk_level: MEDIUM
+  typical_issues:
+    - ITC mismatch
+    - return discrepancies
+
