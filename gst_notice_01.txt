@@ -1,0 +1,5 @@
+Notice under Section 73 of CGST Act, 2017
+Mismatch in Input Tax Credit claimed in GSTR-3B
+Tax period: April 2023
+Difference observed between GSTR-2A and GSTR-3B
+Add sample GST notice data
