@@ -15,3 +15,4 @@ Output format:
 - Risk Level
 - Explanation
 
+Add GST notice analysis prompt
